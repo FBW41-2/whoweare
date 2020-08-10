@@ -2,8 +2,8 @@
 linkedin: https://www.linkedin.com/in/vbldra
 portfolio: https://www.behance.net/vbldra
 ## Experience
-** Industrial designer
-* July 2012 – June 2015 Nordplast Co (Saint-Petersburg)
+**Industrial designer.**
+*July 2012 – June 2015 Nordplast Co (Saint-Petersburg)*
 3d model design from concept to release (plastic children's toys).
 - 3d models of the product in Solidworks.
 - Model delivery for prototyping.
@@ -26,8 +26,8 @@ Development of the projects under the license (Barbie, Cut the rope, Smeshariki,
 Database of the projects
 - Organization and support of the common database for all the projects (3d
 models, technical documentation, advertising layouts and presentations). 
-** Design Engineer
-* LOMO Co (Saint-Petersburg) September 2010 – February 2012
+**Design Engineer**
+*LOMO Co (Saint-Petersburg) September 2010 – February 2012*
 Project development and design in Pro Engineer according to the optical calculations and basic requirements.
 - Design and development of the optical system
 - Analysis of the requirements
@@ -40,8 +40,8 @@ Project development and design in Pro Engineer according to the optical calculat
 - Distribution and monitoring of the product lifecycle using Windchill
 - Maintenance of the product during it's lifecycle.
 ## Education
-** Saint-Petersburg National Research University of Information Technologies, Mechanics and Optics
-* September 2006 – February 2012
+**Saint-Petersburg National Research University of Information Technologies, Mechanics and Optics**
+*September 2006 – February 2012*
 Engineer's degree: Optical Systems and Technologies
 ## Languages
 1. Russian (native speacker) 
