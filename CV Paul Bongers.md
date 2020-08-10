@@ -1,15 +1,7 @@
 ﻿# Personal Information
 	          
 *Name
-	Paul 
-	Address
-	Trajanstr. 14, 50678 Cologne
-	Phone
-	(+49) 0178-8719-721
-	E-Mail
-	paulbongers22@gmail.com
-	Date & P.O.B (Nationality)
-	02.04.1990, Mutare, Zimbabwe (Dutch)*
+	Paul*
 
 ## Education
 
