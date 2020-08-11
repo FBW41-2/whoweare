@@ -1,7 +1,7 @@
-#This is *DCI* group **FBW41-2**.
-##We will create some project [here](http://google.com).
+# This is *DCI* group **FBW41-2**.
+## We will create some project [here](http://google.com).
 
-###Dan Turebekov.
+### Dan Turebekov.
 
 Here's the small quote:
 
