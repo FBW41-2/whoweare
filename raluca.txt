@@ -19,5 +19,7 @@ Projects I would like to work on:
 - a website for me as a web developer
 - an app for learning a foreign language 
 
+something something
+
 
 >>>>>>> 0b75a60dc25fc908b179415c545ea0e2eb7cbd26
