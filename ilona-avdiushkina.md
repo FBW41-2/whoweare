@@ -9,7 +9,7 @@ portfolio: https://www.behance.net/vbldra
 
 **Industrial designer.**
 
-*July 2012 – June 2015 Nordplast Co (Saint-Petersburg)*
+*July 2022 – June 2015 Nordplast Co (Saint-Petersburg)*
 
 3d model design from concept to release (plastic children's toys).
 - 3d models of the product in Solidworks.
